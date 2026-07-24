@@ -3,10 +3,12 @@ Licht ins Dunkle ist ein narratives Erkundungs-Abenteuer in dem man den Charakte
 
 # Installation
 **Hinweis**: Das Spiel wurde für Windows entwickelt und benötigt keine Installation. Nach dem Entpacken kann es direkt über die .exe-Datei gestartet werden. Wer kein Windows hat, kann mich gerne einmal unter bjark02h@gmail.com anschreiben und wir finden vielleicht eine Möglichkeit, dass du es trotzdem testen kannst.
-1. Klicke auf den grünen Button **`<> Code`** und wähle **`Download ZIP`** aus.
-2. Die ZIP-Datei befindet sich anschließend in deinem Download-Ordner.
-3. Entpacke die Datei, indem du mit der rechten Maustaste auf den Ordner **`Licht-Ins-Dunkle`** (bzw. die heruntergeladene ZIP-Datei) klickst und **`Alle extrahieren...`** auswählst.
-4. Wähle einen Zielordner aus und starte anschließend die Datei **`Licht-Ins-Dunkle.exe`**.
+1. Folge dem Link: https://drive.google.com/file/d/1VSgETPmggfxT2VEgyo8gSKlMrnF2ZvrM/view?usp=sharing
+2. Lade die Datei an deinen Wunsch-Zielpfad herunter.
+3. Starte die Datei **`Licht-Ins-Dunkle.exe`** .
+
+Gepatcht wird täglich um Fehler zu beheben und Anpassungen vorzunehmen.
+Der Link wird nach jedem Patch geändert, damit du an die neue Version zu kommst.
 
 # Feedback
 Dein Feedback ist für uns sehr wichtig! Den Feedbackbogen findest du hier:
